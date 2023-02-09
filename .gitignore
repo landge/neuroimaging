@@ -1,0 +1,4 @@
+*.swp
+*.swo
+/mkdocs-project/site
+*.tmp
