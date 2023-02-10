@@ -1,4 +1,8 @@
 site_name: Neuroimaging Notes 
 theme:
   name: material
-
+  features:
+    - navigation.instant
+nav:
+  - 'Brain tumor imaging': 
+    - 'Radiation necrosis vs. tumor recurrence': 'rn_vs_rt.md'
